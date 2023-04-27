@@ -1,2 +1,3 @@
 # uikit-computer-store-template
-Github pages
+
+Demo: [https://vn-spring.github.io/uikit-computer-store-template](https://vn-spring.github.io/uikit-computer-store-template)
