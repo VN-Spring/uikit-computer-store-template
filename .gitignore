@@ -1,0 +1,10 @@
+.sass-cache/
+*.css.map
+*.sass.map
+*.scss.map
+node_modules/
+.yarn/
+.pnp.loader.mjs
+.pnp.cjs
+package-lock.json
+yarn.lock
