@@ -33,7 +33,7 @@ This theme requires `Node.js` version `>= 8.2`
 To install theme first clone this repo
 
 ```bash
-git clone https://github.com/nguyenhongthe/uikit-computer-store-template.git
+git clone https://github.com/VN-Spring/uikit-computer-store-template.git
 ```
 
 and go to directory
