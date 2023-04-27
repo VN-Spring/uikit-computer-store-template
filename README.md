@@ -1,6 +1,6 @@
 # Computer store e-commerce template
 
-[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/vkovic/uikit-computer-store-template/blob/master/LICENSE)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/vn-spring/uikit-computer-store-template/blob/master/LICENSE)
 
 ### Computer store e-commerce template built with `UIkit` using `Sass`
 
@@ -11,9 +11,9 @@ to use `Sass` instead of `Less`.
 After I found this great e-commerce theme, I decided to spend some time adopting it to `Sass` preprocessor since lot of
 us are preferring it over `Less`.
 
-Demo: [https://vkovic.github.io/uikit-computer-store-template](https://vkovic.github.io/uikit-computer-store-template)
+Demo: [https://vn-spring.github.io/uikit-computer-store-template](https://vn-spring.github.io/uikit-computer-store-template)
 
-[![Computer store e-commerce template](https://raw.githubusercontent.com/vkovic/uikit-computer-store-template/gh-pages/images/preview.png "Computer store e-commerce template")](https://raw.githubusercontent.com/vkovic/uikit-computer-store-template/gh-pages/images/preview.png "Computer store e-commerce template")
+[![Computer store e-commerce template](https://raw.githubusercontent.com/vn-spring/uikit-computer-store-template/gh-pages/images/preview.png "Computer store e-commerce template")](https://raw.githubusercontent.com/vn-spring/uikit-computer-store-template/gh-pages/images/preview.png "Computer store e-commerce template")
 
 ---
 
